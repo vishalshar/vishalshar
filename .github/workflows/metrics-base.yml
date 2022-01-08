@@ -19,5 +19,5 @@ jobs:
           user: vishalshar
           template: classic
           filename: metrics-base.svg
-          base: community, repositories
+          base: header, repositories
           config_timezone: America/New_York
