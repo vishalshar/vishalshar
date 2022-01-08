@@ -4,4 +4,4 @@
 <a href="https://metrics.lecoq.io/about/vishalshar"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
 <a href="https://metrics.lecoq.io/about/vishalshar"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
 
-I’m a researcher in the field of Databases, Data Mining and Machine Learning.
+I’m a researcher in the field of Data Mining and Machine Learning.
